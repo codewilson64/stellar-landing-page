@@ -26,8 +26,7 @@ const TermsOfService = () => {
 
       <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">2. User Accounts</h2>
       <p className="mb-6">
-        To use certain features, you may be required to create an account using your email. You are
-        responsible for maintaining the confidentiality of your login information.
+        Creating an account is not required for this app. You can still use the app with or without an account. 
       </p>
 
       <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">3. Subscriptions</h2>

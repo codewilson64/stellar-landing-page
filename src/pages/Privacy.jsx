@@ -17,15 +17,14 @@ const PrivacyPolicy = () => {
       <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">1. Information We Collect</h2>
       <p className="mb-2">When you use Stellar, we may collect the following information:</p>
       <ul className="list-disc list-inside mb-6">
-        <li><strong>Email Address:</strong> Collected during account creation and used to manage user access.</li>
+        <li><strong>Email Address:</strong> Collected during account creation, however user can skip this part and still use the app.</li>
         <li><strong>Payment Information:</strong> Managed through our third-party service RevenueCat for processing subscriptions. We do not store payment information directly.</li>
       </ul>
 
       <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">2. How We Use Your Information</h2>
       <p className="mb-2">We use the information we collect to:</p>
       <ul className="list-disc list-inside mb-6">
-        <li>Create and manage user accounts</li>
-        <li>Process and validate subscriptions</li>
+        <li>Allow users who choose to sign up to create and manage their accounts</li>
         <li>Provide customer support</li>
         <li>Improve app functionality and user experience</li>
       </ul>

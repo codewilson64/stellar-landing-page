@@ -7,7 +7,7 @@ const PhoneImage = () => {
         Your daily source of insight, always ready.
       </h1>
     
-      <div className='w-[230px] overflow-hidden mx-auto'>
+      <div className='w-[230px] sm:w-[290px] overflow-hidden mx-auto'>
         <img src={heroBgImg} alt="bg-img" className='w-full object-cover'/>
       </div>
     </div>

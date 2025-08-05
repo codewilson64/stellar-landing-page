@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav
       className='max-w-[1280px] h-18 px-5 lg:px-12'>
-      <Link to='/' className='flex items-center justify-center'>
+      <Link to='/' className='flex items-center justify-start'>
         <img src={logo} alt="logo" className='w-[70px] h-[70px] cursor-pointer'/>
       </Link>
     </nav>

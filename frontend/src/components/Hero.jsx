@@ -1,5 +1,6 @@
 import Button from './Button'
 import heroBgImg_2 from '../assets/app-img2-portrait.png'
+import SubscribeInput from './SubscribeInput'
 
 const Hero = () => {
   return (
@@ -15,12 +16,14 @@ const Hero = () => {
           <p className='text-lg text-left font-normal text-black'>Read and gain valuable knowledge from the world's best books on Self-Growth, Business, Investment, Productivity, and more!</p>
         </div>
 
-        <Button />
+        <div className='max-w-[500px]'>
+          <SubscribeInput />
+        </div>
       </div>
 
       {/* Desktop right content */}
       <div className='w-[230px] sm:w-[290px] overflow-hidden mx-auto'>
-        <img src={heroBgImg_2} alt="bg-img" className='w-full object-cover'/>
+        <img src={heroBgImg_2} alt="bg-img" className='w-full h-full object-cover' loading='lazy'/>
       </div>
     </div>
   )

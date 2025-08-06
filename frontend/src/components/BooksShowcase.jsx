@@ -7,7 +7,7 @@ const BooksShowcase = () => {
       <p className='sm:w-[500px] font-normal text-lg text-center mx-auto text-black mb-6'>Get new insights everyday by reading our summary books from Self-Growth, Health, Money and many other categories.</p>
 
       <div className='w-[330px] sm:w-[500px] overflow-hidden mx-auto'>
-        <img src={books} alt="books" className='w-full'/>
+        <img src={books} alt="books" className='w-full' loading='lazy'/>
       </div>
     </div>
   )

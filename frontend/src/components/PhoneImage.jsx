@@ -8,7 +8,7 @@ const PhoneImage = () => {
       </h1>
     
       <div className='w-[230px] sm:w-[290px] overflow-hidden mx-auto'>
-        <img src={heroBgImg} alt="bg-img" className='w-full object-cover'/>
+        <img src={heroBgImg} alt="bg-img" className='w-full object-cover' loading='lazy'/>
       </div>
     </div>
   )

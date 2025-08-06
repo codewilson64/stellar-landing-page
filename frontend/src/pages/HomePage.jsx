@@ -1,8 +1,8 @@
 import Hero from '../components/Hero'
 import Comparison from '../components/Comparison'
 import BooksShowcase from '../components/BooksShowcase'
-import Download from '../components/Download'
 import PhoneImage from '../components/PhoneImage'
+import EmailCollection from '../components/EmailCollection'
 
 const HomePage = () => {
   return (
@@ -11,7 +11,7 @@ const HomePage = () => {
       <PhoneImage />
       <BooksShowcase />
       <Comparison />
-      <Download />
+      <EmailCollection />
     </div>
   )
 }

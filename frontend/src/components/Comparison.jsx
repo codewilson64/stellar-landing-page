@@ -6,7 +6,7 @@ import check from '../assets/check.png'
 
 const Comparison = () => {
   return (
-    <div className='flex flex-col w-full ss:w-[600px] mx-auto px-7 py-20 bg-white'>
+    <div className='flex flex-col w-full ss:w-[600px] mx-auto px-5 py-20 bg-white'>
       <div className='mb-12'>
         <h3 className='font-bold text-3xl text-black mb-7'>Typical book</h3>
 

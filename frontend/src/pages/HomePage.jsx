@@ -8,9 +8,9 @@ const HomePage = () => {
   return (
     <div>
       <Hero />
-      <PhoneImage />
       <BooksShowcase />
       <Comparison />
+      <PhoneImage />
       <EmailCollection />
     </div>
   )

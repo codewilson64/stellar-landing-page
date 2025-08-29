@@ -31,8 +31,21 @@ const TermsOfService = () => {
 
       <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">3. Subscriptions</h2>
       <p className="mb-6">
-        Stellar offers subscription-based content. Payments are handled securely through RevenueCat.
-        We do not store payment data directly.
+        Stellar offers subscription-based content. Subscription plans are billed on a recurring basis, either monthly, 3 months or yearly, depending on the plan you choose. 
+        The price for each plan will be clearly displayed in the app before you confirm your purchase. 
+      </p>
+      <p className="mb-6">
+        If a free trial or introductory offer is available, the terms of that offer (including its duration and what happens when it ends) will also be displayed before you subscribe. 
+        When the trial ends, you will automatically be charged the subscription price unless you cancel before the trial period finishes. 
+      </p>
+      <p className="mb-6">
+        Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing cycle. 
+        You can manage or cancel your subscription at any time through your Google Play account settings. 
+      </p>
+
+      <p className="mb-6">
+        Payments are processed securely through Google Play and RevenueCat. 
+        We do not store your payment details. 
       </p>
 
       <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">4. Intellectual Property</h2>

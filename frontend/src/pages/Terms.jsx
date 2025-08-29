@@ -31,7 +31,7 @@ const TermsOfService = () => {
 
       <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">3. Subscriptions</h2>
       <p className="mb-6">
-        Stellar offers subscription-based content. Subscription plans are billed on a recurring basis, either monthly, 3 months or yearly, depending on the plan you choose. 
+        Subscription is required to access the full content of the app. Subscription plans are billed on a recurring basis, either monthly, 3 months or yearly, depending on the plan you choose. 
         The price for each plan will be clearly displayed in the app before you confirm your purchase. 
       </p>
       <p className="mb-6">

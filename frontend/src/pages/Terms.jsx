@@ -9,7 +9,7 @@ const TermsOfService = () => {
     <div className="max-w-[1280px] mx-auto px-6 py-10 font-sans text-gray-800 leading-relaxed">
       <h1 className="text-4xl font-bold text-gray-900 mb-4">Terms of Service for Stellar</h1>
       <p className="mb-6">
-        <strong>Effective Date:</strong> June 15th, 2025
+        <strong>Effective Date:</strong> September 1st, 2025
       </p>
 
       <p className="mb-6">

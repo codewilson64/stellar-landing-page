@@ -8,7 +8,7 @@ const PrivacyPolicy = () => {
   return (
     <div className="max-w-[1280px] mx-auto px-6 py-10 font-sans text-gray-800 leading-relaxed">
       <h1 className="text-4xl font-bold text-gray-900 mb-4">Privacy Policy for Stellar</h1>
-      <p className="mb-6"><strong>Effective Date:</strong> June 15th, 2025</p>
+      <p className="mb-6"><strong>Effective Date:</strong> September 1st, 2025</p>
 
       <p className="mb-6">
         Welcome to <strong>Stellar</strong>, a mobile application developed by <strong>codewilson</strong>. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.

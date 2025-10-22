@@ -11,8 +11,10 @@ app.use(cors())
 
 // Routes
 import subscribeRoutes from './router/subscribe.js'
+import accountRoutes from './router/account.js'
 
 app.use('/api', subscribeRoutes)
+app.use('/api', accountRoutes)
 
 // Server
 app.listen(process.env.PORT, () => {

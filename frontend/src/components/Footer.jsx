@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <p className='font-normal text-sm text-black'>&copy; {new Date().getFullYear()} Stellar. All rights reserved.</p>
+      <p className='font-normal text-sm text-black'>&copy; {new Date().getFullYear()} Stellary. All rights reserved.</p>
     </footer>
   )
 }

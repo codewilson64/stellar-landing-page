@@ -7,18 +7,18 @@ const PrivacyPolicy = () => {
 
   return (
     <div className="max-w-[1280px] mx-auto px-6 py-10 font-sans text-gray-800 leading-relaxed">
-      <h1 className="text-4xl font-bold text-gray-900 mb-4">Privacy Policy for Stellar</h1>
+      <h1 className="text-4xl font-bold text-gray-900 mb-4">Privacy Policy</h1>
       <p className="mb-6"><strong>Effective Date:</strong> September 1st, 2025</p>
 
       <p className="mb-6">
-        Welcome to <strong>Stellar</strong>, a mobile application developed by <strong>codewilson</strong>. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
+        Welcome to <strong>Stellary</strong>, a mobile application developed by <strong>codewilson</strong>. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
       </p>
 
       <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">1. Information We Collect</h2>
-      <p className="mb-2">When you use Stellar, we may collect the following information:</p>
+      <p className="mb-2">When you use our app, we may collect the following information:</p>
       <ul className="list-disc list-inside mb-6">
         <li><strong>Email Address:</strong> Collected during account creation, however user can skip this part and still use the app.</li>
-        <li><strong>Device ID</strong>Collected to help the app function properly, provide a smooth experience, and prevent fraudulent activity.</li>
+        <li><strong>Device ID:</strong> Collected to help prevent fraudulent activity.</li>
         <li><strong>Payment Information:</strong> Managed through our third-party service RevenueCat for processing subscriptions. We do not store payment information directly.</li>
       </ul>
 
@@ -62,7 +62,7 @@ const PrivacyPolicy = () => {
 
       <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">6. Eligibility</h2>
       <p className="mb-6">
-        Stellar is intended for users <strong>at least 18 years of age</strong>. We do not knowingly collect personal data from individuals under 18. If we become aware that such data has been collected, we will delete it promptly.
+        Stellary is intended for users <strong>at least 18 years of age</strong>. We do not knowingly collect personal data from individuals under 18. If we become aware that such data has been collected, we will delete it promptly.
       </p>
 
       <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">7. Your Rights</h2>

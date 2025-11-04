@@ -55,9 +55,9 @@ const PrivacyPolicy = () => {
       </a>.
     </p>
 
-    <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">5. Data Security</h2>
     <p className="mb-6">
-      We implement security measures to protect your data from unauthorized access or disclosure. While we strive to use commercially acceptable means to protect your information, no method is 100% secure.
+      Please note that certain limited technical information, such as your device ID, may be retained even after account deletion or when using the app without an account.
+      This information is kept solely for <strong>fraud prevention</strong> purposes and is not used for advertising or analytics.
     </p>
 
     <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">6. Eligibility</h2>

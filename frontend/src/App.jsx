@@ -4,6 +4,7 @@ import HomePage from './pages/HomePage'
 import Footer from './components/Footer'
 import Terms from './pages/Terms'
 import Privacy from './pages/Privacy'
+import Account from './pages/Account'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
         <Route path='/' element={<HomePage />}/>
         <Route path='/termsofuse' element={<Terms />}/>
         <Route path='/privacypolicy' element={<Privacy />}/>
+        <Route path='/delete-account' element={<Account />}/>
       </Routes>
       <Footer />
     </div>

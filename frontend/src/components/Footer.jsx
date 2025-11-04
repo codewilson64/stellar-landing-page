@@ -16,6 +16,9 @@ const Footer = () => {
           <Link to={'/privacypolicy'} className='w-fit font-normal text-lg text-black'>
             Privacy Policy
           </Link>
+          <Link to={'/delete-account'} className='w-fit font-normal text-lg text-black'>
+            Delete account
+          </Link>
         </div>
 
         <div>

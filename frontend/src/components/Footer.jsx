@@ -19,6 +19,9 @@ const Footer = () => {
           <Link to={'/delete-account'} className='w-fit font-normal text-lg text-black'>
             Delete account
           </Link>
+          <Link to={'/refund'} className='w-fit font-normal text-lg text-black'>
+            How to get a refund?
+          </Link>
         </div>
 
         <div>

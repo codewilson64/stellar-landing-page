@@ -11,7 +11,6 @@ const HomePage = () => {
       <BooksShowcase />
       <Comparison />
       <PhoneImage />
-      <EmailCollection />
     </div>
   )
 }

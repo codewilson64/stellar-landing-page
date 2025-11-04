@@ -8,7 +8,7 @@ const Hero = () => {
       {/* Desktop left content */}
       <div className='sm:w-[70%] flex flex-col py-20'>
         <div className='mb-6'>
-          <h1 className='font-bold text-6xl sm:text-7xl text-left text-black mb-3'>Stellar</h1>
+          <h1 className='font-bold text-6xl sm:text-7xl text-left text-black mb-3'>Stellary</h1>
           <span className='font-semibold text-xl text-black'>Read book summary in just 10 mins</span>
         </div>
 

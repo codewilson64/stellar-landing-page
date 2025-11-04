@@ -88,10 +88,9 @@ const PrivacyPolicy = () => {
       Stellary does not engage in the sale of personal or sensitive user data for monetary gain or any other purpose.
     </p>
 
-    <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">8.2 Right to Know About Data Sharing</h2>
+    <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">8.2 Right to Know About Data Sharing (including California law)</h2>
     <p className="mb-6">
-      You have the right to know whether we share your personal data with third parties. Stellary only shares limited data with service providers that help operate the app (such as RevenueCat for payments and Appwrite for backend services). 
-      These third parties are bound by agreements to protect your data and cannot use it for any other purpose.
+      Under certain privacy laws such as the California Consumer Privacy Act (CCPA), you have the right to know what categories of your personal information we share and with whom we share it. Stellary only shares limited data with essential service providers that support our app operations (for example, RevenueCat for payments and Appwrite for backend services). These third parties are required by contract to protect your information and are prohibited from using it for any purpose other than providing their services to Stellary.
     </p>
 
     <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-2">8.3 Right to Opt-Out of Data Sale</h2>
